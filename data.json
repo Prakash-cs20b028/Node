@@ -1,0 +1,8 @@
+{
+	"name":"Bruce",
+	"dob":"03/03/1980",
+	"address":{
+		"Village":"Abc",
+		"City":"New York"
+	}
+}
